@@ -1,0 +1,23 @@
+{
+  "name": "typesc-git",
+  "version": "1.0.0",
+  "description": "Typescript git",
+  "main": "lib/async.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayansardar91/typescrript-class.git"
+  },
+  "author": "Sayan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sayansardar91/typescrript-class/issues"
+  },
+  "homepage": "https://github.com/sayansardar91/typescrript-class#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
